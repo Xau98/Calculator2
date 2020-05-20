@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Bkav TienNVh : màu back ground của phần màn hình hiện thị phép tính và kết quả   -->
+    <color name="bkav_display_background_color">#FFF</color>
+    <!-- Bkav TienNVh :  Màu của phép tính -->
+    <color name="bkav_display_formula_text_color">#000000</color>
+    <!-- Bkav TienNVh :  màu chữ của kết qảu phép tính  -->
+    <color name="bkav_display_result_text_color">#6C000000</color>
+
+
+
+
+    <!-- Bkav TienNVh :  màu background tab Advance  -->
+    <color name="bkav_pad_advanced_background_color">#1DE9B6</color>
+</resources>
